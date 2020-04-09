@@ -1,0 +1,309 @@
+#NEXUS
+[R-package APE, Mon Apr 06 09:29:28 2020]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 148;
+	TAXLABELS
+		Pseudoeurycea_bellii
+		Pseudoeurycea_leprosa
+		Pseudoeurycea_lineola
+		Parvimolge_townsendi
+		Bolitoglossa_franklini
+		Bolitoglossa_porrasorum
+		Bolitoglossa_alvaradoi
+		Bolitoglossa_rostrata
+		Bolitoglossa_adspersa
+		Bolitoglossa_altamazonica
+		Bolitoglossa_subpalmata
+		Bolitoglossa_epimela
+		Bolitoglossa_lignicolor
+		Bolitoglossa_mexicana
+		Bolitoglossa_salvinii
+		Bolitoglossa_platydactyla
+		Bolitoglossa_rufescens
+		Chiropterotriton_chiropterus
+		Chiropterotriton_multidentatus
+		Chiropterotriton_priscus
+		Chiropterotriton_magnipes
+		Thorius_pennatulus
+		Thorius_macdougalli
+		Thorius_arboreus
+		Thorius_minutissimus
+		Thorius_narisovalis
+		Nototriton_picadoi
+		Bradytriton_silus
+		Oedipina_uniformis
+		Nyctanolis_pernix
+		Dendrotriton_bromeliacius
+		Batrachoseps_attenuatus
+		Batrachoseps_pacificus
+		Stereochilus_marginatus
+		Pseudotriton_ruber
+		Pseudotriton_montanus
+		Gyrinophilus_porphyriticus
+		Eurycea_bislineata
+		Eurycea_cirrigera
+		Eurycea_longicauda
+		Eurycea_lucifuga
+		Eurycea_neotenes
+		Eurycea_sosorum
+		Eurycea_waterlooensis
+		Eurycea_robusta
+		Eurycea_spelaea
+		Hemidactylium_scutatum
+		Karsenia_koreana
+		Hydromantes_platycephalus
+		Hydromantes_genei
+		Hydromantes_imperialis
+		Hydromantes_italicus
+		Plethodon_elongatus
+		Plethodon_vandykei
+		Plethodon_fourchensis
+		Plethodon_glutinosus
+		Plethodon_cheoah
+		Plethodon_grobmani
+		Plethodon_yonahlossee
+		Plethodon_welleri
+		Plethodon_cinereus
+		Plethodon_serratus
+		Ensatina_eschscholtzii
+		Phaeognathus_hubrichti
+		Desmognathus_quadramaculatus
+		Desmognathus_marmoratus
+		Desmognathus_apalachicolae
+		Desmognathus_ochrophaeus
+		Desmognathus_fuscus
+		Aneides_hardii
+		Aneides_lugubris
+		Aneides_aeneus
+		Amphiuma_means
+		Amphiuma_pholeter
+		Amphiuma_tridactylum
+		Rhyacotriton_variegatus
+		Rhyacotriton_olympicus
+		Necturus_beyeri
+		Necturus_maculosus
+		Necturus_lewisi
+		Proteus_anguinus
+		Dicamptodon_ensatus
+		Ambystoma_maculatum
+		Ambystoma_mexicanum
+		Ambystoma_dumerilii
+		Ambystoma_tigrinum
+		Ambystoma_gracile
+		Salamandrina_terdigitata
+		Pleurodeles_waltl
+		Pleurodeles_poireti
+		Tylototriton_panhai
+		Tylototriton_yangi
+		Tylototriton_verrucosus
+		Echinotriton_andersoni
+		Taricha_rivularis
+		Taricha_torosa
+		Taricha_granulosa
+		Notophthalmus_viridescens
+		Notophthalmus_meridionalis
+		Euproctus_platycephalus
+		Euproctus_montanus
+		Paramesotriton_hongkongensis
+		Paramesotriton_deloustali
+		Paramesotriton_labiatus
+		Paramesotriton_chinensis
+		Pachytriton_brevipes
+		Cynops_wolterstorffi
+		Cynops_ensicauda
+		Cynops_pyrrhogaster
+		Cynops_orphicus
+		Cynops_orientalis
+		Ichthyosaura_alpestris
+		Lissotriton_vulgaris
+		Lissotriton_montandoni
+		Lissotriton_helveticus
+		Ommatotriton_vittatus
+		Ommatotriton_ophryticus
+		Neurergus_kaiseri
+		Neurergus_derjugini
+		Neurergus_crocatus
+		Triturus_carnifex
+		Triturus_cristatus
+		Calotriton_asper
+		Salamandra_atra
+		Salamandra_corsica
+		Salamandra_salamandra
+		Salamandra_algira
+		Lyciasalamandra_atifi
+		Lyciasalamandra_luschani
+		Mertensiella_caucasica
+		Chioglossa_lusitanica
+		Pseudobranchus_axanthus
+		Pseudobranchus_striatus
+		Siren_lacertina
+		Siren_intermedia
+		Andrias_davidianus
+		Cryptobranchus_alleganiensis
+		Onychodactylus_fischeri
+		Onychodactylus_japonicus
+		Ranodon_sibiricus
+		Paradactylodon_persicus
+		Salamandrella_keyserlingii
+		Hynobius_naevius
+		Hynobius_leechii
+		Hynobius_nebulosus
+		Pseudohynobius_flavomaculatus
+		Liua_shihi
+		Batrachuperus_pinchonii
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Pseudoeurycea_bellii,
+		2	Pseudoeurycea_leprosa,
+		3	Pseudoeurycea_lineola,
+		4	Parvimolge_townsendi,
+		5	Bolitoglossa_franklini,
+		6	Bolitoglossa_porrasorum,
+		7	Bolitoglossa_alvaradoi,
+		8	Bolitoglossa_rostrata,
+		9	Bolitoglossa_adspersa,
+		10	Bolitoglossa_altamazonica,
+		11	Bolitoglossa_subpalmata,
+		12	Bolitoglossa_epimela,
+		13	Bolitoglossa_lignicolor,
+		14	Bolitoglossa_mexicana,
+		15	Bolitoglossa_salvinii,
+		16	Bolitoglossa_platydactyla,
+		17	Bolitoglossa_rufescens,
+		18	Chiropterotriton_chiropterus,
+		19	Chiropterotriton_multidentatus,
+		20	Chiropterotriton_priscus,
+		21	Chiropterotriton_magnipes,
+		22	Thorius_pennatulus,
+		23	Thorius_macdougalli,
+		24	Thorius_arboreus,
+		25	Thorius_minutissimus,
+		26	Thorius_narisovalis,
+		27	Nototriton_picadoi,
+		28	Bradytriton_silus,
+		29	Oedipina_uniformis,
+		30	Nyctanolis_pernix,
+		31	Dendrotriton_bromeliacius,
+		32	Batrachoseps_attenuatus,
+		33	Batrachoseps_pacificus,
+		34	Stereochilus_marginatus,
+		35	Pseudotriton_ruber,
+		36	Pseudotriton_montanus,
+		37	Gyrinophilus_porphyriticus,
+		38	Eurycea_bislineata,
+		39	Eurycea_cirrigera,
+		40	Eurycea_longicauda,
+		41	Eurycea_lucifuga,
+		42	Eurycea_neotenes,
+		43	Eurycea_sosorum,
+		44	Eurycea_waterlooensis,
+		45	Eurycea_robusta,
+		46	Eurycea_spelaea,
+		47	Hemidactylium_scutatum,
+		48	Karsenia_koreana,
+		49	Hydromantes_platycephalus,
+		50	Hydromantes_genei,
+		51	Hydromantes_imperialis,
+		52	Hydromantes_italicus,
+		53	Plethodon_elongatus,
+		54	Plethodon_vandykei,
+		55	Plethodon_fourchensis,
+		56	Plethodon_glutinosus,
+		57	Plethodon_cheoah,
+		58	Plethodon_grobmani,
+		59	Plethodon_yonahlossee,
+		60	Plethodon_welleri,
+		61	Plethodon_cinereus,
+		62	Plethodon_serratus,
+		63	Ensatina_eschscholtzii,
+		64	Phaeognathus_hubrichti,
+		65	Desmognathus_quadramaculatus,
+		66	Desmognathus_marmoratus,
+		67	Desmognathus_apalachicolae,
+		68	Desmognathus_ochrophaeus,
+		69	Desmognathus_fuscus,
+		70	Aneides_hardii,
+		71	Aneides_lugubris,
+		72	Aneides_aeneus,
+		73	Amphiuma_means,
+		74	Amphiuma_pholeter,
+		75	Amphiuma_tridactylum,
+		76	Rhyacotriton_variegatus,
+		77	Rhyacotriton_olympicus,
+		78	Necturus_beyeri,
+		79	Necturus_maculosus,
+		80	Necturus_lewisi,
+		81	Proteus_anguinus,
+		82	Dicamptodon_ensatus,
+		83	Ambystoma_maculatum,
+		84	Ambystoma_mexicanum,
+		85	Ambystoma_dumerilii,
+		86	Ambystoma_tigrinum,
+		87	Ambystoma_gracile,
+		88	Salamandrina_terdigitata,
+		89	Pleurodeles_waltl,
+		90	Pleurodeles_poireti,
+		91	Tylototriton_panhai,
+		92	Tylototriton_yangi,
+		93	Tylototriton_verrucosus,
+		94	Echinotriton_andersoni,
+		95	Taricha_rivularis,
+		96	Taricha_torosa,
+		97	Taricha_granulosa,
+		98	Notophthalmus_viridescens,
+		99	Notophthalmus_meridionalis,
+		100	Euproctus_platycephalus,
+		101	Euproctus_montanus,
+		102	Paramesotriton_hongkongensis,
+		103	Paramesotriton_deloustali,
+		104	Paramesotriton_labiatus,
+		105	Paramesotriton_chinensis,
+		106	Pachytriton_brevipes,
+		107	Cynops_wolterstorffi,
+		108	Cynops_ensicauda,
+		109	Cynops_pyrrhogaster,
+		110	Cynops_orphicus,
+		111	Cynops_orientalis,
+		112	Ichthyosaura_alpestris,
+		113	Lissotriton_vulgaris,
+		114	Lissotriton_montandoni,
+		115	Lissotriton_helveticus,
+		116	Ommatotriton_vittatus,
+		117	Ommatotriton_ophryticus,
+		118	Neurergus_kaiseri,
+		119	Neurergus_derjugini,
+		120	Neurergus_crocatus,
+		121	Triturus_carnifex,
+		122	Triturus_cristatus,
+		123	Calotriton_asper,
+		124	Salamandra_atra,
+		125	Salamandra_corsica,
+		126	Salamandra_salamandra,
+		127	Salamandra_algira,
+		128	Lyciasalamandra_atifi,
+		129	Lyciasalamandra_luschani,
+		130	Mertensiella_caucasica,
+		131	Chioglossa_lusitanica,
+		132	Pseudobranchus_axanthus,
+		133	Pseudobranchus_striatus,
+		134	Siren_lacertina,
+		135	Siren_intermedia,
+		136	Andrias_davidianus,
+		137	Cryptobranchus_alleganiensis,
+		138	Onychodactylus_fischeri,
+		139	Onychodactylus_japonicus,
+		140	Ranodon_sibiricus,
+		141	Paradactylodon_persicus,
+		142	Salamandrella_keyserlingii,
+		143	Hynobius_naevius,
+		144	Hynobius_leechii,
+		145	Hynobius_nebulosus,
+		146	Pseudohynobius_flavomaculatus,
+		147	Liua_shihi,
+		148	Batrachuperus_pinchonii
+	;
+	TREE * UNTITLED = [&R] ((((((((((((((1:26.22074392,(2:22.0765665,3:22.07656648):4.144177398):4.183446414,4:30.40419032):8.27548863,((((16:28.71999931,(13:28.33183208,14:28.33183204):0.3881671954):0.0169523846,17:28.73695168):0.2045841646,((12:27.80998105,(11:22.82012567,15:22.82012563):4.989855451):1.003997689,(9:24.49093582,10:24.49093582):4.323042919):0.1275569981):0.001460901478,(((5:28.70677535,6:28.70677534):0.01994910693,7:28.72672447):0.007900931946,8:28.73462537):0.208371289):9.736682529):17.42389327,(((((19:23.74313478,18:23.7431349):1.185091394,20:24.92822619):1.276764798,21:26.20499102):19.89875562,(22:17.16514227,((24:7.012053282,23:7.012053305):9.549703988,(26:6.581619815,25:6.581619821):9.980137563):0.6033849982):28.93860421):6.507588082,((27:39.37168838,(28:33.32438049,29:33.32438076):6.047307686):8.454614405,(30:41.34504314,31:41.34504309):6.481259455):4.785031988):3.492237636):5.691676493,(32:30.75676942,33:30.75676934):31.03847959):1.538131031,(((34:15.94316382,(35:11.14627906,36:11.14627906):4.796884692):2.303629802,37:18.24679361):17.02710294,((((43:0.9115208257,42:0.9115208234):5.374445572,44:6.285966351):12.58338811,((38:9.329918795,39:9.32991878):8.997731836,((41:17.38514728,45:17.38514726):0.1092435716,40:17.49439082):0.8332597903):0.5417038854):1.049014967,46:19.91836948):15.35552718):28.0594887):10.60561647,47:73.93900678):8.94867471,((48:63.91651306,(49:40.23269074,((50:19.19211783,51:19.1921178):1.738927591,52:20.93104545):19.30164535):23.68382207):3.188912842,(((53:39.81163336,54:39.81163348):11.12049358,(((((58:12.06720386,(56:5.831190268,57:5.83119029):6.23601356):1.890724554,55:13.95792843):3.722744985,59:17.6806734):19.88779552,60:37.56846887):2.074363479,(62:21.57004683,61:21.57004685):18.0727855):11.28929461):10.81352423,(63:59.50054166,((64:47.43138639,(((69:17.13076549,68:17.13076552):5.30304204,67:22.43380756):4.366045584,(66:19.05116258,65:19.05116263):7.748690589):20.6315335):7.83670176,((70:32.70672105,71:32.70672095):9.316875786,72:42.02359719):13.24449142):4.23245316):2.245109763):5.359774442):15.78224222):36.88596621,((73:13.1528903,74:13.1528903):11.09113088,75:24.24402125):95.52962593):18.31154336,(76:7.451319579,77:7.451319579):130.6338706):16.25930591,(((78:9.081662091,79:9.08166217):15.28601749,80:24.36767964):87.70724554,81:112.0749252):42.26957111):12.10641274,((82:104.8465368,(87:44.58161051,(((85:4.10285316,84:4.102853145):2.198119242,86:6.300972407):36.60345134,83:42.90442366):1.677186693):60.26492136):47.68062469,((88:70.05000726,(((89:15.00712366,90:15.00712368):25.58723572,(((92:14.16802243,93:14.16802241):1.450347798,91:15.61837019):5.405943845,94:21.02431411):19.57004521):23.02473735,(((95:15.16232442,(97:13.71302282,96:13.71302286):1.449301583):28.29639226,(98:15.05778616,99:15.05778643):28.40093035):12.38194966,((100:18.81375719,101:18.81375719):30.2316065,(((((102:12.7514791,103:12.75147907):1.194792499,(104:0.430668499,105:0.430668499):13.51560312):6.898207931,106:20.84447948):3.437577801,((111:11.84943314,110:11.84943319):10.66813167,(108:21.33855045,(109:21.00419223,107:21.00419204):0.3343583999):1.179014235):1.764492474):21.28461732,(112:44.03596943,(((113:1.158346543,114:1.158346543):23.01591107,115:24.17425755):18.41576488,(((116:10.24882253,117:10.24882253):20.08558618,(119:14.49140421,(120:7.00870008,118:7.008700072):7.482704211):15.84300442):4.643765257,((122:11.92151221,121:11.92151216):18.60224366,123:30.52375587):4.454418066):7.611848516):1.445946964):1.530705321):3.478689038):6.795302418):7.778430259):6.43090215):9.754306394,((131:57.62333213,130:57.62333213):14.72453744,((((127:10.03834008,126:10.03834011):2.126821436,125:12.16516155):1.605918725,124:13.77108029):15.30707033,(129:17.22754343,128:17.2275434):11.85060731):43.26971915):7.456436858):72.72284674):13.92374759):21.32290425,((132:22.03331774,133:22.03331774):31.55526855,(134:19.03434802,135:19.03434802):34.5542382):134.1852275):14.29171664,((136:48.9024838,137:48.90248343):107.5605813,((138:30.30856744,139:30.30856732):76.24422394,((140:36.69891105,141:36.69891115):13.55598279,(142:46.30433471,((143:25.28592366,(144:19.25286115,145:19.25286125):6.033062522):18.06659507,((146:35.51247515,147:35.51247515):1.982531414,148:37.49500654):5.857512189):2.951815821):3.950559197):56.29789601):49.9102634):45.60246439);
+END;
