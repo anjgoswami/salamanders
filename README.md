@@ -1,4 +1,4 @@
-##Data and code for Fabre et al. 2020, *Nature Ecology & Evolution*
+#Data and code for Fabre et al. 2020, *Nature Ecology & Evolution*
 
 Including:
 
@@ -8,7 +8,7 @@ salamandra_salamandra_landmark: sample landmark dataset for one specimen to plot
 
 salamandra_salamandra_mesh: mesh associated with sample landmark data above
 
-Phylogeny_MCC_pruned: phylogeny of anurans
+Phylogeny_MCC_pruned: phylogeny of Caudata
 
 scaled_tree: rate-scaled tree from BayesTraits used in subsequent analyses
 
