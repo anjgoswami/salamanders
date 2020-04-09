@@ -15,3 +15,5 @@ Module_definition: table of module hypotheses used in EMMLi analyses
 layout_Emmli: format for generating network plot of EMMLi results with bones in relative position
 
 per_lm_rate_and_disparity: code for generating per-landmark rate and disparity
+
+PLY files of specimens are available on Phenome10k.org
