@@ -1,8 +1,8 @@
-#Data and code for Fabre et al. 2020, *Nature Ecology & Evolution*
+Data and code for Fabre et al. 2020, *Nature Ecology & Evolution*
 
 Including:
 
-Coordinates_superimposed_entire_dataset: Categories, centroid size, and rocrustes coordinates for landmarks and sliding semilandmarks for the entire dataset in the following order: 1) species name in phylogeny, 2) species name in collection, 3) family, 4) life cycle, 5) fine-grained classification of life cycle, 6) locomotion, 7) centroid size, 8-10) Procrustes coordinates.
+Coordinates_superimposed_entire_dataset: Categories, centroid size, and rocrustes coordinates for landmarks and sliding semilandmarks for the entire dataset in the following order: 1) species name in phylogeny, 2) species name in collection, 3) family, 4) life cycle, 5) fine-grained classification of life cycle, 6) locomotion, 7) centroid size, 8-2824) Procrustes coordinates.
 
 salamandra_salamandra_landmark: sample landmark dataset for one specimen to plot landmarks on mesh
 
