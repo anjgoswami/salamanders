@@ -25,7 +25,7 @@ VarRates: Transforms applied to the tree from the variable rates and local trans
 
 Output.trees: output trees scaled by variables rates or other transforms, saved in nexus format
 
-mytreerateplotter: R code for plotting output of BayesTraits analyses on trees 
+mytreerateplotter: R code for plotting output of BayesTraits analyses on trees. This is a modification of the function “plotBranchbyTrait” from the R package “phytools”. 
 
 All PLY files of specimens are available on Phenome10k.org, Morphosource, and Digimorph
 
