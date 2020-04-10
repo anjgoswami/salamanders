@@ -1,7 +1,6 @@
 <<<<<<< HEAD
-#Data and code associated with Fabre et al., Nature Ecology and Evolution 2020
+#Data and code associated with Fabre et al., *Nature Ecology and Evolution* 2020
 =======
-Data and code for Fabre et al. 2020, *Nature Ecology & Evolution*
 
 Including:
 
@@ -19,7 +18,15 @@ Module_definition: table of module hypotheses used in EMMLi analyses
 
 layout_Emmli: format for generating network plot of EMMLi results with bones in relative position
 
-per_lm_rate_and_disparity: code for generating per-landmark rate and disparity
+per_lm_rate_and_disparity: R code for generating per-landmark rate and disparity
 
-PLY files of specimens are available on Phenome10k.org
->>>>>>> fabb79e44085345f6f8c693d68743c0265e4a4f1
+Script_BM_rj_MCMC_bayestrait: input for BayesTraits analysis
+
+VarRates: Transforms applied to the tree from the variable rates and local transform models
+
+Output.trees: output trees scaled by variables rates or other transforms, saved in nexus format
+
+mytreerateplotter: R code for plotting output of BayesTraits analyses on trees 
+
+All PLY files of specimens are available on Phenome10k.org, Morphosource, and Digimorph
+
