@@ -17,8 +17,6 @@ Module_definition: table of module hypotheses used in EMMLi analyses
 
 layout_Emmli: format for generating network plot of EMMLi results with bones in relative position
 
-per_lm_rate_and_disparity: R code for generating per-landmark rate and disparity
-
 Script_BM_rj_MCMC_bayestrait: input for BayesTraits analysis
 
 VarRates: Transforms applied to the tree from the variable rates and local transform models
@@ -26,6 +24,8 @@ VarRates: Transforms applied to the tree from the variable rates and local trans
 Output.trees: output trees scaled by variables rates or other transforms, saved in nexus format
 
 mytreerateplotter: R code for plotting output of BayesTraits analyses on trees. This is a modification of the function “plotBranchbyTrait” from the R package “phytools”. 
+
+Code for parsing rates and variance by landmarks is available at https://github.com/rnfelice/hot.dots
 
 All PLY files of specimens are available on Phenome10k.org, Morphosource, and Digimorph
 
